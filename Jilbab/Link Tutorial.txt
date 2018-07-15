@@ -1,0 +1,11 @@
+link 1
+
+http://www.kodingindonesia.com/belajar-membuat-aplikasi-crud-android-menggunakan-database-mysql/
+
+
+link 2
+
+http://blog.neotelemetri.com/index.php/2016/12/31/aplikasi-crud-android-sederhana-menggunakan-mysql-php-json/
+
+link 3
+https://www.simplifiedcoding.net/android-upload-image-using-php-mysql-android-studio/
